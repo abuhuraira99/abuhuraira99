@@ -2,18 +2,19 @@
 
 Software engineer in the final year of a BS in Software Engineering at The University of Lahore. I build backend systems, automation and data tools, mostly in Python.
 
-- Automation Software Engineer at **Ecollabers (PVT) LTD.**: Amazon SP-API inventory automation, scrapers and data tools for a US-market Amazon agency
+- Automation Software Engineer at **Ecollabers (PVT) LTD.**: Amazon SP-API inventory automation and data tools
 - Junior Software Developer on the **RISE Modern Wellness** CRM (PHP / CodeIgniter / Perfex)
 - Junior Software Developer at **Jugno**, an early-stage grocery delivery startup in Jhelum
 
-## Featured projects
+## Selected work
 
 | Project | What it is | Stack |
 |---|---|---|
-| [quantrisk-ai](https://github.com/abuhuraira99/quantrisk-ai) | Final year project: macroeconomic stress-testing and portfolio rebalancing terminal (XGBoost quantile models, Monte Carlo VaR/CVaR, mean-CVaR optimisation), 313 tests | FastAPI, PostgreSQL, React 19, TypeScript |
-| [amazon-inventory-sync](https://github.com/abuhuraira99/amazon-inventory-sync) | Keeps Amazon seller stock in step with a supplier feed through the SP-API; eight guardrails, read-back verification, undo; 294 tests | FastAPI, PostgreSQL, Docker |
-| [bookoutlet-scraper-pro](https://github.com/abuhuraira99/bookoutlet-scraper-pro) | Browser-free Shopify catalog extractor and stock monitor with adaptive rate limiting and resumable jobs; 78 tests | Flask, curl_cffi, SQLite |
-| [amazon-hamilton-inventory-scraper](https://github.com/abuhuraira99/amazon-hamilton-inventory-scraper) | Multi-threaded Selenium stock and price scraper with crash-resume | Flask, Selenium, MySQL |
+| QuantRisk AI | Final year project: macroeconomic stress-testing and portfolio rebalancing terminal (XGBoost quantile models, Monte Carlo VaR/CVaR, mean-CVaR optimisation), 313 tests | FastAPI, PostgreSQL, React 19, TypeScript |
+| Amazon Inventory Sync | Keeps Amazon seller stock in step with a supplier feed through the SP-API; eight guardrails, read-back verification, undo; ~300 tests | FastAPI, PostgreSQL, Docker |
+| Catalog & stock monitoring tools | Browser-free catalog extraction and stock monitoring with rate limiting and resumable jobs | Flask, SQLite |
+
+The code for these projects is private (client and university work). Walkthroughs are available on request.
 
 ## Stack
 
